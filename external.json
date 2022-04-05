@@ -1,0 +1,26 @@
+[
+    {
+        "radius" : 50,
+        "cx": 100,
+        "cy": 200,
+        "fill": "orange"
+    },
+    {
+        "radius" : 70,
+        "cx": 200,
+        "cy": 300,
+        "fill": "red"
+    },
+    {
+        "radius" : 30,
+        "cx": 400,
+        "cy": 150,
+        "fill": "brown"
+    },
+    {
+        "radius" : 55,
+        "cx": 550,
+        "cy": 270,
+        "fill": "green"
+    },
+]
